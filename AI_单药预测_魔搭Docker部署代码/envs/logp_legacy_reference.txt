@@ -1,0 +1,14 @@
+# Old LogP model: preserve previously verified user-owned Linux Conda environment.
+# This list comes from prior environment records. It is NOT a tested 2026 install lock.
+Python 3.5.6
+RDKit 2018.03.4
+TensorFlow 1.14.0
+NumPy 1.15.2
+pandas 0.23.4
+scikit-learn 0.20.0
+SciPy 1.1.0
+matplotlib 3.0.0
+xgboost 0.80
+DeepChem source git tag 2.2.0 (package __version__ may report 2.1.1)
+For this old stack, do not attempt mixing with Python 3.11 or new RDKit.
+Provide LOGP_PYTHON pointed at your working interpreter on the original server.

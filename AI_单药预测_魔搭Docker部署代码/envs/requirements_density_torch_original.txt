@@ -1,0 +1,4 @@
+# From density_mpnn_modelscope/runtime_lock.txt (training runtime).
+# Original exact GPU variant, NVIDIA A10 / CUDA 12.8:
+# --index-url https://download.pytorch.org/whl/cu128
+torch==2.10.0+cu128

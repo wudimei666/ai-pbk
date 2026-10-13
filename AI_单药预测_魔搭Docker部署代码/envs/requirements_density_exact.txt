@@ -1,0 +1,13 @@
+# Exact non-Torch dependencies from the verified training environment.
+# Install a compatible PyTorch build separately. Original runtime: torch 2.10.0+cu128, CUDA 12.8.
+numpy==2.4.3
+pandas==2.3.3
+pyarrow==25.0.0
+scikit-learn==1.9.0
+rdkit==2026.03.5
+pyyaml==6.0.3
+tqdm==4.69.0
+psutil==7.2.2
+matplotlib==3.11.1
+pytest==9.1.1
+pytest-cov==7.1.0

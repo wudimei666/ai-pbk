@@ -1,0 +1,16 @@
+{
+  "python": "3.12.13",
+  "platform": "Linux-5.10.134-17.3.al8.x86_64-x86_64-with-glibc2.35",
+  "torch": "2.10.0+cu128",
+  "torch_cuda": "12.8",
+  "cuda_available": true,
+  "gpu": "NVIDIA A10",
+  "vram_gb": 22.18,
+  "pandas": "2.3.3",
+  "pyarrow": "25.0.0",
+  "sklearn": "1.9.0",
+  "rdkit": "2026.03.5",
+  "cpu_count": 8,
+  "ram_gb": 28.0,
+  "disk_free_gb": 1010203.71
+}

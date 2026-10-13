@@ -1,0 +1,9 @@
+Python: 3.11.11 (main, Mar 11 2025, 18:25:39) [GCC 11.4.0]
+numpy: 2.4.6
+pandas: 3.0.6
+scikit-learn: 1.9.1
+rdkit: 2026.03.6
+lightgbm: 4.7.0
+hyperopt: 0.3.0
+joblib: 1.6.0
+openpyxl: 3.1.5
